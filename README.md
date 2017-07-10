@@ -8,6 +8,6 @@ shared memory
 
 memory map
 
-semaphore(omit this method because associated with this data is OS directory)
+semaphore(this method was omitted method because associated with this data is in OS directory)
 
-socket(omit this method because associated with this data is Network directory)
+socket(this method was omitted method because associated with this data is in Network directory)
