@@ -2,7 +2,9 @@
 
 Inter Process Communication
 
-- named memory
+- fifo
+
+- named pipe
 
 - shared memory
 
